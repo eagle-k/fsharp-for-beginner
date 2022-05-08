@@ -1,2 +1,3 @@
-# fsharp-for-beginnner
-F# for beginner
+# F#で始める関数型プログラミング
+
+F#で始める関数型プログラミング コードサンプル

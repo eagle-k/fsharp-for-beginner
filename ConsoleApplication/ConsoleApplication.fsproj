@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Chapter2.fs" />
+        <Compile Include="Chapter3.fs" />
+        <Compile Include="Chapter4.fs" />
+        <Compile Include="Chapter5.fs" />
+        <Compile Include="Chapter6.fs" />
+        <Compile Include="Chapter7.fs" />
+        <Compile Include="Chapter8.fs" />
+        <Compile Include="Chapter9.fs" />
+        <Compile Include="Chapter10.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>
